@@ -79,25 +79,55 @@ Provides detailed performance for a selected product:
 
 ### Executive Overview
 
-![Executive Overview](223101%2003-10-2026%20لقطة%20شاشة.png)
+![Executive Overview](Executive-overview.png)
 
 ### Product & Profitability Analysis
 
-![Product Analysis](223154%2003-10-2026%20لقطة%20شاشة.png)
+![Product Analysis](product-analysis.png)
 
 ### Product Details
 
-![Product Details](223328%2003-10-2026%20لقطة%20شاشة.png)
+![Product Details](product-details.png)
 
 ## 📂 Project Files
 
-- `data mini projct.pbix` — Power BI dashboard file
-- `Sample - Superstore 2019.xls` — Source dataset
-- Dashboard screenshots
+| File | Description |
+|---|---|
+| `data mini projct.pbix` | Power BI dashboard file |
+| `Sample - Superstore 2019.xls` | Source dataset |
+| `Executive-overview.png` | Executive Overview screenshot |
+| `product-analysis.png` | Product & Profitability Analysis screenshot |
+| `product-details.png` | Product Details screenshot |
 
 ## 🎯 Project Objective
 
 The main objective of this project is to transform raw sales data into an interactive analytical dashboard that supports business performance analysis and helps identify trends across products, regions, categories, and customer segments.
+
+## 💡 Business Insights
+
+The dashboard enables users to explore:
+
+- Overall sales and profitability performance
+- Sales trends over time
+- Regional sales performance
+- Product and sub-category performance
+- Customer segment contribution
+- Top-performing states and products
+- Profitability status across sales
+- Detailed performance of selected products
+
+## 📊 Dashboard Structure
+
+The project follows a three-page analytical structure:
+
+**Page 1 — Executive Overview**  
+High-level business performance and sales overview.
+
+**Page 2 — Product & Profitability Analysis**  
+Detailed analysis of products, sub-categories, profitability, and sales performance.
+
+**Page 3 — Product Details**  
+Detailed product-level performance using interactive filtering.
 
 ## 👨‍💻 Author
 
@@ -106,3 +136,9 @@ The main objective of this project is to transform raw sales data into an intera
 Data Analyst | Power BI | SQL | Python | Excel
 
 GitHub: [Ahmed Wardany](https://github.com/ahmedwardaed012012-coder)
+
+---
+
+### 📌 Project Repository
+
+This repository contains the Power BI dashboard, source dataset, and dashboard previews used in the project.
