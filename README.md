@@ -136,8 +136,14 @@ Detailed product-level performance using interactive filtering.
 Data Analyst | Power BI | SQL | Python | Excel
 
 GitHub: [Ahmed Wardany](https://github.com/ahmedwardaed012012-coder)
+---
+
+## 📥 Download Power BI Dashboard
+
+[⬇️ Download the Power BI Dashboard](./superstore-powerbi-dashboard.pbix)
 
 ---
+
 
 ### 📌 Project Repository
 
